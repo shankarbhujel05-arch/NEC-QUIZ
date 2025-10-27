@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Quiz Master",
+  "description": "An interactive quiz application where you can load your own JSON-based quizzes. It features timed questions, instant feedback, and detailed notes for a comprehensive learning experience.",
+  "requestFramePermissions": []
+}
